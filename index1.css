@@ -1,0 +1,409 @@
+.d-iet-program-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.d-iet-program-d-iet-program {
+  width: 100%;
+  height: 1220px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 20px;
+  justify-content: flex-start;
+  background-color: rgba(243, 243, 252, 1);
+}
+.d-iet-program-group7 {
+  top: 91px;
+  left: 247px;
+  width: 248.99998474121094px;
+  height: 65.28445434570312px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.d-iet-program-group3 {
+  top: 0px;
+  left: 216.58526611328125px;
+  width: 32.41472244262695px;
+  height: 32.41472244262695px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.d-iet-program-ellipse1 {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+.d-iet-program-group2 {
+  top: 7.046750068664551px;
+  left: 7.046721935272217px;
+  width: 18.321367263793945px;
+  height: 18.321367263793945px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.d-iet-program-rectangle21 {
+  top: 0.000029048080250504427px;
+  left: 5.63734245300293px;
+  width: 7px;
+  height: 18px;
+  position: absolute;
+  border-radius: 1.0570018291473389px;
+}
+.d-iet-program-rectangle22 {
+  top: 5.637245178222656px;
+  left: 18.321308135986328px;
+  width: 7px;
+  height: 18px;
+  position: absolute;
+  border-radius: 1.0570018291473389px;
+}
+.d-iet-program-text {
+  top: 7.284456729888916px;
+  left: -5.684341886080802e-14px;
+  height: auto;
+  position: absolute;
+  font-size: 43.21963119506836px;
+  font-style: Black;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-iet-program-black-whiteand-yellow-bold-fitness-logo2 {
+  top: 85px;
+  left: 118px;
+  width: 115px;
+  height: 96px;
+  position: absolute;
+  border-radius: 25px;
+}
+.d-iet-program-nav-menu {
+  gap: 47.59263610839844px;
+  top: 99px;
+  left: 709px;
+  width: 723px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+}
+.d-iet-program-group71 {
+  width: 69px;
+  height: 34px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.d-iet-program-text02 {
+  color: rgba(64, 64, 64, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25.38273811340332px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-iet-program-text04 {
+  color: rgba(64, 64, 64, 1);
+  height: auto;
+  font-size: 25.38273811340332px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-iet-program-text06 {
+  color: rgba(64, 64, 64, 1);
+  height: auto;
+  font-size: 25.38273811340332px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-iet-program-text08 {
+  color: rgba(64, 64, 64, 1);
+  height: auto;
+  font-size: 25.38273811340332px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-iet-program-text10 {
+  color: rgba(64, 64, 64, 1);
+  height: auto;
+  font-size: 25.38273811340332px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-iet-program-group237466 {
+  top: 82px;
+  left: 1401px;
+  width: 208px;
+  height: 68.19672393798828px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.d-iet-program-frame1 {
+  top: 0px;
+  left: 0px;
+  width: 208px;
+  height: 68.19672393798828px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.d-iet-program-rectangle23 {
+  top: 0px;
+  left: 0px;
+  width: 208px;
+  height: 68px;
+  position: absolute;
+  box-sizing: content-box;
+  border-radius: 17.04918098449707px;
+}
+.d-iet-program-text12 {
+  top: 11px;
+  left: 25px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 34px;
+  font-style: Black;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-iet-program-text14 {
+  top: 269px;
+  left: 506px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-iet-program-bulking {
+  top: 382px;
+  flex: 25;
+  left: 464px;
+  width: 397.20001220703125px;
+  height: 810px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.d-iet-program-text16 {
+  top: 20px;
+  left: 80px;
+  color: rgba(0, 0, 0, 1);
+  width: 250px;
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-iet-program-text18 {
+  left: 26px;
+  color: rgba(138, 132, 132, 1);
+  width: 351px;
+  bottom: 3px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Satoshi;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-iet-program-diet {
+  top: 382px;
+  left: 884px;
+  width: 397.20001220703125px;
+  height: 810px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 1;
+  justify-content: center;
+  background-color: rgba(217, 217, 217, 1);
+}
+.d-iet-program-text20 {
+  top: 20px;
+  left: 133px;
+  color: rgba(0, 0, 0, 1);
+  width: 136px;
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-iet-program-text22 {
+  color: rgba(138, 132, 132, 1);
+  right: 18px;
+  width: 351px;
+  bottom: 14px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Satoshi;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-iet-program-maintenance {
+  top: 382px;
+  left: 1304px;
+  width: 397.20001220703125px;
+  height: 810px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.d-iet-program-text24 {
+  top: 20px;
+  left: 17px;
+  color: rgba(0, 0, 0, 1);
+  width: 365px;
+  height: auto;
+  position: absolute;
+  font-size: 60px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-iet-program-text26 {
+  left: 20px;
+  color: rgba(138, 132, 132, 1);
+  width: 351px;
+  bottom: 7px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Satoshi;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-iet-program-bulking1 {
+  flex: 25;
+  left: 47px;
+  width: 397.20001220703125px;
+  bottom: 30px;
+  height: 810px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 1;
+  justify-content: center;
+  background-color: rgba(217, 217, 217, 1);
+}
+.d-iet-program-text28 {
+  top: 20px;
+  left: 80px;
+  color: rgb(0, 0, 0);
+  width: 250px;
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.d-iet-program-text29 {
+  color: rgb(138, 132, 132);
+  right: 24px;
+  width: 351px;
+  bottom: 12px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Satoshi;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}

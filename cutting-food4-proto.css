@@ -1,0 +1,400 @@
+.cutting-food4-proto-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.cutting-food4-proto-cutting-food4-proto {
+  width: 100%;
+  height: 1220px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background-color: rgba(243, 243, 252, 1);
+}
+.cutting-food4-proto-group7 {
+  top: 91px;
+  left: 247px;
+  width: 248.99998474121094px;
+  height: 65.28445434570312px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cutting-food4-proto-group3 {
+  top: 0px;
+  left: 216.58526611328125px;
+  width: 32.41472244262695px;
+  height: 32.41472244262695px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cutting-food4-proto-ellipse1 {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+.cutting-food4-proto-group2 {
+  top: 7.046750068664551px;
+  left: 7.046721935272217px;
+  width: 18.321367263793945px;
+  height: 18.321367263793945px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cutting-food4-proto-rectangle21 {
+  top: 0.000029048080250504427px;
+  left: 5.63734245300293px;
+  width: 7px;
+  height: 18px;
+  position: absolute;
+  border-radius: 1.0570018291473389px;
+}
+.cutting-food4-proto-rectangle22 {
+  top: 5.637245178222656px;
+  left: 18.321308135986328px;
+  width: 7px;
+  height: 18px;
+  position: absolute;
+  border-radius: 1.0570018291473389px;
+}
+.cutting-food4-proto-text {
+  top: 7.284456729888916px;
+  left: -5.684341886080802e-14px;
+  height: auto;
+  position: absolute;
+  font-size: 43.21963119506836px;
+  font-style: Black;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cutting-food4-proto-black-whiteand-yellow-bold-fitness-logo2 {
+  top: 85px;
+  left: 118px;
+  width: 115px;
+  height: 96px;
+  position: absolute;
+  border-radius: 25px;
+}
+.cutting-food4-proto-nav-menu {
+  gap: 47.59263610839844px;
+  top: 104px;
+  left: 698px;
+  width: 723px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cutting-food4-proto-group71 {
+  width: 69px;
+  height: 34px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cutting-food4-proto-text02 {
+  color: rgba(64, 64, 64, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25.38273811340332px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cutting-food4-proto-text04 {
+  color: rgba(64, 64, 64, 1);
+  height: auto;
+  font-size: 25.38273811340332px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cutting-food4-proto-text06 {
+  color: rgba(64, 64, 64, 1);
+  height: auto;
+  font-size: 25.38273811340332px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cutting-food4-proto-text08 {
+  color: rgba(64, 64, 64, 1);
+  height: auto;
+  font-size: 25.38273811340332px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cutting-food4-proto-text10 {
+  color: rgba(64, 64, 64, 1);
+  height: auto;
+  font-size: 25.38273811340332px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cutting-food4-proto-group237466 {
+  top: 93px;
+  left: 1378px;
+  width: 208px;
+  height: 68.19672393798828px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cutting-food4-proto-frame1 {
+  top: 0px;
+  left: 0px;
+  width: 208px;
+  height: 68.19672393798828px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.cutting-food4-proto-rectangle23 {
+  top: 0px;
+  left: 0px;
+  width: 208px;
+  height: 68px;
+  position: absolute;
+  box-sizing: content-box;
+  border-radius: 17.04918098449707px;
+}
+.cutting-food4-proto-text12 {
+  top: 11px;
+  left: 25px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 34px;
+  font-style: Black;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cutting-food4-proto-text14 {
+  top: 228px;
+  left: 397px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cutting-food4-proto-text16 {
+  top: 323px;
+  left: 103px;
+  color: rgba(138, 132, 132, 1);
+  width: 1522px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Satoshi;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cutting-food4-proto-image {
+  top: 388px;
+  left: 42px;
+  width: 651px;
+  height: 549px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.cutting-food4-proto-komposisi {
+  top: 959px;
+  left: 42px;
+  width: 651px;
+  height: 246px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.cutting-food4-proto-text18 {
+  color: rgba(0, 0, 0, 1);
+  right: 18px;
+  width: 594px;
+  bottom: 20px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Satoshi;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cutting-food4-proto-text26 {
+  top: 17px;
+  left: 264.53021240234375px;
+  color: rgba(0, 0, 0, 1);
+  width: 148px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cutting-food4-proto-komposisi1 {
+  top: 388px;
+  left: 715px;
+  width: 962px;
+  height: 819px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.cutting-food4-proto-rectangle1144 {
+  top: 0px;
+  left: 0px;
+  width: 466px;
+  height: 819px;
+  position: absolute;
+  border-radius: 25px;
+}
+.cutting-food4-proto-rectangle1145 {
+  top: 0px;
+  left: 496px;
+  width: 466px;
+  height: 819px;
+  position: absolute;
+  border-radius: 25px;
+}
+.cutting-food4-proto-text28 {
+  top: 162px;
+  left: 523px;
+  color: rgba(0, 0, 0, 1);
+  width: 418px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cutting-food4-proto-text34 {
+  top: 211px;
+  left: 25px;
+  color: rgba(0, 0, 0, 1);
+  width: 432px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Satoshi;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cutting-food4-proto-text50 {
+  top: 67px;
+  left: 185px;
+  color: rgba(0, 0, 0, 1);
+  width: 95px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cutting-food4-proto-text52 {
+  top: 67px;
+  left: 612px;
+  color: rgba(0, 0, 0, 1);
+  width: 224px;
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.cutting-food4-proto-image49552-quinoaandblackbeansddmfs4x3274546315412d {
+  top: 455px;
+  left: 113px;
+  width: 510px;
+  height: 430px;
+  position: absolute;
+  border-radius: 25px;
+}

@@ -1,0 +1,417 @@
+.list-menu-diet-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.list-menu-diet-list-menu-diet {
+  width: 100%;
+  height: 1220px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 20px;
+  background-color: rgba(243, 243, 252, 1);
+}
+.list-menu-diet-group7 {
+  top: 91px;
+  left: 247px;
+  width: 248.99998474121094px;
+  height: 65.28445434570312px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.list-menu-diet-group3 {
+  top: 0px;
+  left: 216.58526611328125px;
+  width: 32.41472244262695px;
+  height: 32.41472244262695px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.list-menu-diet-ellipse1 {
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+}
+.list-menu-diet-group2 {
+  top: 7.046750068664551px;
+  left: 7.046721935272217px;
+  width: 18.321367263793945px;
+  height: 18.321367263793945px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.list-menu-diet-rectangle21 {
+  top: 0.000029048080250504427px;
+  left: 5.63734245300293px;
+  width: 7px;
+  height: 18px;
+  position: absolute;
+  border-radius: 1.0570018291473389px;
+}
+.list-menu-diet-rectangle22 {
+  top: 5.637245178222656px;
+  left: 18.321308135986328px;
+  width: 7px;
+  height: 18px;
+  position: absolute;
+  border-radius: 1.0570018291473389px;
+}
+.list-menu-diet-text {
+  top: 7.284456729888916px;
+  left: -5.684341886080802e-14px;
+  height: auto;
+  position: absolute;
+  font-size: 43.21963119506836px;
+  font-style: Black;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.list-menu-diet-black-whiteand-yellow-bold-fitness-logo2 {
+  top: 85px;
+  left: 118px;
+  width: 115px;
+  height: 96px;
+  position: absolute;
+  border-radius: 25px;
+}
+.list-menu-diet-nav-menu {
+  gap: 47.59263610839844px;
+  top: 104px;
+  left: 698px;
+  width: 723px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+}
+.list-menu-diet-group71 {
+  width: 69px;
+  height: 34px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.list-menu-diet-text02 {
+  color: rgba(64, 64, 64, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25.38273811340332px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.list-menu-diet-text04 {
+  color: rgba(64, 64, 64, 1);
+  height: auto;
+  font-size: 25.38273811340332px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.list-menu-diet-text06 {
+  color: rgba(64, 64, 64, 1);
+  height: auto;
+  font-size: 25.38273811340332px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.list-menu-diet-text08 {
+  color: rgba(64, 64, 64, 1);
+  height: auto;
+  font-size: 25.38273811340332px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.list-menu-diet-text10 {
+  color: rgba(64, 64, 64, 1);
+  height: auto;
+  font-size: 25.38273811340332px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.list-menu-diet-group237466 {
+  top: 97px;
+  left: 1373px;
+  width: 208px;
+  height: 68.19672393798828px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.list-menu-diet-frame1 {
+  top: 0px;
+  left: 0px;
+  width: 208px;
+  height: 68.19672393798828px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.list-menu-diet-rectangle23 {
+  top: 0px;
+  left: 0px;
+  width: 208px;
+  height: 68px;
+  position: absolute;
+  box-sizing: content-box;
+  border-radius: 17.04918098449707px;
+}
+.list-menu-diet-text12 {
+  top: 11px;
+  left: 25px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 34px;
+  font-style: Black;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 900;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.list-menu-diet-text14 {
+  top: 293px;
+  left: 661px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 70px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Satoshi;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.list-menu-diet-group237484 {
+  top: 438px;
+  left: 709px;
+  width: 301px;
+  height: 725px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.list-menu-diet-text16 {
+  top: 480px;
+  left: 59px;
+  color: rgba(0, 0, 0, 1);
+  width: 198px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Satoshi;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.list-menu-diet-image79805-stuffed-peppers-withturkey-and-vegtables-mfs2 {
+  top: 36px;
+  left: 22px;
+  width: 255px;
+  height: 386px;
+  position: absolute;
+  border-radius: 25px;
+}
+.list-menu-diet-group237485 {
+  top: 438px;
+  left: 1040px;
+  width: 301px;
+  height: 725px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.list-menu-diet-text18 {
+  top: 453px;
+  left: 55px;
+  color: rgba(0, 0, 0, 1);
+  width: 198px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Satoshi;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.list-menu-diet-image7372677-baked-codwith-lemon-herb-butter-bibi4x3c9b9 {
+  top: 36px;
+  left: 27px;
+  width: 254px;
+  height: 386px;
+  position: absolute;
+  border-radius: 25px;
+}
+.list-menu-diet-group237486 {
+  top: 438px;
+  left: 1377px;
+  width: 301px;
+  height: 725px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.list-menu-diet-text20 {
+  top: 480px;
+  left: 41px;
+  color: rgba(0, 0, 0, 1);
+  width: 198px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Satoshi;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.list-menu-diet-group237492 {
+  top: 36px;
+  left: 24px;
+  width: 254px;
+  height: 386px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.list-menu-diet-mainqimgb44d7bc98f694d9d4bc7ba149beef6b0pjlq1 {
+  top: 0px;
+  left: 0px;
+  width: 254px;
+  height: 386px;
+  position: absolute;
+  border-radius: 25px;
+}
+.list-menu-diet-group237482 {
+  top: 438px;
+  left: 40px;
+  width: 301px;
+  height: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: -1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.list-menu-diet-text22 {
+  top: 459px;
+  left: 29px;
+  color: rgba(0, 0, 0, 1);
+  width: 249px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Satoshi;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.list-menu-diet-group237483 {
+  top: 438px;
+  left: 381px;
+  width: 301px;
+  height: 725px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.list-menu-diet-text24 {
+  top: 150px;
+  left: 52px;
+  color: rgba(0, 0, 0, 1);
+  width: 198px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Satoshi;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.list-menu-diet-avocadoquinoasalad500x5001 {
+  top: 36px;
+  left: 26px;
+  width: 254px;
+  height: 386px;
+  position: absolute;
+  border-radius: 25px;
+}
+.list-menu-diet-grilledchickenbreastwithsteamedbroccolimedley1 {
+  top: 474px;
+  left: 64px;
+  width: 254px;
+  height: 386px;
+  position: absolute;
+  border-radius: 25px;
+}
